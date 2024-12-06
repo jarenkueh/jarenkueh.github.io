@@ -4,8 +4,9 @@
 Fellowship of Society of Actuaries , FSA
 
 ### Projects
-Property transaction data chatbot
+Property transaction data chatbot 
+
 
 ### Work Experience
-Pricing and reserving for General Insurance
+Pricing and reserving for General Insurance 
 Risk Management , ORSA and Stress Testing.
