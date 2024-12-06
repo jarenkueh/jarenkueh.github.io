@@ -8,4 +8,4 @@ Property transaction data chatbot
 
 ### Work Experience
 Pricing and reserving for General Insurance
-Risk Management , ORSA and Stress Testing
+Risk Management , ORSA and Stress Testing.
