@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Jaren Kueh
-theme: jeykll-theme-minimal
+
+theme: minima
